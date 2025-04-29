@@ -16,7 +16,7 @@
 * This file represents the WPAS within a 20‑km radius of the mainshock epicentre, covering events from the mainshock until 7 August 2024. dataset6_Mw.csv covers the same spatial domain as dataset6_August.csv, but its temporal window spans from the mainshock until 30 April 2024.
 
 **WP_50k_AS.txt**
-This catalogue contains WPAS data (local magnitude) recorded from the occurrence of the mainshock until August 2024 within a 50‑km radius of the mainshock epicentre. Columns (from left to right) are: occurrence time (year/month/day), occurrence time (hour/minute/second), latitude, longitude, depth (km), and magnitude.
+* This catalogue contains WPAS data (local magnitude) recorded from the occurrence of the mainshock until August 2024 within a 50‑km radius of the mainshock epicentre. Columns (from left to right) are: occurrence time (year/month/day), occurrence time (hour/minute/second), latitude, longitude, depth (km), and magnitude.
 
 **WP_50k_AS_Mw.txt**
-This file has the same spatial and temporal domain as WP_50k_AS.txt, but the magnitudes are in moment magnitude (Mw) format.
+* This file has the same spatial and temporal domain as WP_50k_AS.txt, but the magnitudes are in moment magnitude (Mw) format.
