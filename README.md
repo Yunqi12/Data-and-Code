@@ -33,11 +33,12 @@
 **Gutenberg–Richter (G-R) Law**
   1. Parameters Estimation (a and b values)
   2. Parameters Comparison with other SCRs (Ebel, 2009)
-  3. Epistemic Uncertainty in the selection of Background Seismicity Models
+  3. Epistemic Uncertainty in the selection of Background Seismicity Models (Synthetic Background Seismicity I, model from the observed seismicity)
 
 **Seismicity Spatial Distribution**
   1. Pre-mainshock Seismicity
   2. Post-mainshock Seismicity (WPAS)
+  3. Synthetic Background Seismicity II
 
 **Seismic Moment Monthly Released Rate**
   1. Pre-mainshock Seismicity
