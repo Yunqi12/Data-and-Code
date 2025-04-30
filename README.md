@@ -22,36 +22,35 @@
 * This file has the same spatial and temporal domain as WP_50k_AS.txt, but the magnitudes are in moment magnitude (Mw) format.
 
 # Environment Setup
+## Matlab
 
-**Matlab**
-
-*Mc value estimation
+**Mc value estimation**
   1. MAXC
   2. MAXC + Boostrapping
   3. MBS
   4. MBS + Boostrapping
 
-*Gutenberg–Richter (G-R) Law
+**Gutenberg–Richter (G-R) Law**
   1. Parameters Estimation (a and b values)
   2. Parameters Comparison with other SCRs (Ebel, 2009)
   3. Epistemic Uncertainty in the selection of Background Seismicity Models
 
-*Seismicity Spatial Distribution
+**Seismicity Spatial Distribution**
   1. Pre-mainshock Seismicity
   2. Post-mainshock Seismicity (WPAS)
 
-*Seismic Moment Monthly Released Rate
+**Seismic Moment Monthly Released Rate**
   1. Pre-mainshock Seismicity
   2. Post-mainshock Seismicity (WPAS)
 
-*Fault Planar Plane Fitting
+**Fault Planar Plane Fitting**
   1. Fault Plane Orientation
   2. Rupture Area Identification
   3. Seismic Momenet Released from WPAS relate to the Fault Plane
 
-**Python**
-*Modified Omori's Law
+## Python
+**Modified Omori's Law**
   1. Utsu_Omori's Law Parameters (c, k and p values) Estimation
   2. Reasenberg and Jones Omori's Law Parameter (a value) Estimation
 
-*Anticipated Apparent Duration
+**Anticipated Apparent Duration**
